@@ -1,0 +1,984 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 4116.7998046875,
+        "y": 1444.800048828125
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 5720.8373057091849,
+            "y": 2431.8681303689764
+          },
+          "nodeIndex": "Medidas DAX",
+          "nodeLineageTag": "bdd3ae91-541f-41ce-924b-d24edba65ed8",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6134.7874676498777,
+            "y": 2443.8681303689764
+          },
+          "nodeIndex": "PL_Costes_Global",
+          "nodeLineageTag": "05c8e642-f650-48c4-af25-bb52fd0d6a12",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 415.41440845884608,
+            "y": 1810.4331658692931
+          },
+          "nodeIndex": "sdi_facturacion_analisis_linea",
+          "nodeLineageTag": "c010d295-a0a7-4715-9bd5-3b4e8a0f2e8a",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1876.5813278394908,
+            "y": 1408.0838241900528
+          },
+          "nodeIndex": "sdi_facturacion_analisis_linea_mov",
+          "nodeLineageTag": "c68711cd-7a10-4a13-8ac9-9626358e6447",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1539.1155780755444,
+            "y": 2396.7667526051305
+          },
+          "nodeIndex": "sdi_facturacion_area",
+          "nodeLineageTag": "b7a50a48-39b0-49a6-be1f-967c93f502de",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2329.2009746461176,
+            "y": 1377.9379356874385
+          },
+          "nodeIndex": "sdi_facturacion_calendario",
+          "nodeLineageTag": "57b7199e-05ba-4bf3-b4e8-c9bccdea6590",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3237.1363340650269,
+            "y": 2369.8681303689764
+          },
+          "nodeIndex": "sdi_facturacion_compras",
+          "nodeLineageTag": "779f8712-e71a-4bcf-856c-74ab57ff6444",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 1375.893311129068
+          },
+          "nodeIndex": "sdi_facturacion_contrato",
+          "nodeLineageTag": "0bb98395-3a15-48f4-8349-a56437b443df",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 751.40874377248929,
+            "y": 591.06714008532845
+          },
+          "nodeIndex": "sdi_facturacion_cuentas",
+          "nodeLineageTag": "d9f19ed7-edb2-43bd-90bb-6258808758a5",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1243.7909333493981,
+            "y": 0
+          },
+          "nodeIndex": "sdi_facturacion_cuentas_analisis",
+          "nodeLineageTag": "8a1bf136-9030-4bcd-96ec-798448cc978f",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1954.5299865343904,
+            "y": 2371.5177688159024
+          },
+          "nodeIndex": "sdi_facturacion_dominio",
+          "nodeLineageTag": "d787a477-48aa-460e-8de5-92673003242b",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2407.7717636654879,
+            "y": 555.62440966475287
+          },
+          "nodeIndex": "sdi_facturacion_empleado",
+          "nodeLineageTag": "d84b2b72-659e-47f1-a70d-8a1886d55415",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 750.72561122776551,
+            "y": 2042.5137437804278
+          },
+          "nodeIndex": "sdi_facturacion_empresa",
+          "nodeLineageTag": "00c416ab-112b-4b82-b6bf-f47627b067b5",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 751.40874377248929,
+            "y": 918.69475793185347
+          },
+          "nodeIndex": "sdi_facturacion_factura",
+          "nodeLineageTag": "e16cdfcc-2dca-4e0c-a13b-26c8ad3229e7",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3651.0864960057197,
+            "y": 2369.8681303689764
+          },
+          "nodeIndex": "sdi_facturacion_imputaciones",
+          "nodeLineageTag": "187d9db8-9afe-45f0-ba54-a1d9eca66b48",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4065.0366579464126,
+            "y": 2369.8681303689764
+          },
+          "nodeIndex": "sdi_facturacion_info_proveedor",
+          "nodeLineageTag": "c81866ad-dbba-4ea5-867a-4648cec3c934",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2413.9038050860563,
+            "y": 2293.8327437030075
+          },
+          "nodeIndex": "sdi_facturacion_lead",
+          "nodeLineageTag": "f8c8ede5-42a6-4c85-a079-60f6395c2788",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4478.9868198871054,
+            "y": 2369.8681303689764
+          },
+          "nodeIndex": "sdi_facturacion_linea_compras",
+          "nodeLineageTag": "dc870a30-b7a1-41ca-91f6-8c0e2ce25d59",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 580.69210146540536,
+            "y": 1382.4504869439015
+          },
+          "nodeIndex": "sdi_facturacion_linea_contrato",
+          "nodeLineageTag": "89603e5a-8588-4df9-a254-17483943bd8b",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 957.89411817170253
+          },
+          "nodeIndex": "sdi_facturacion_linea_factura",
+          "nodeLineageTag": "373ba1e0-573d-4025-a267-9e43d1270469",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1749.4891620922324,
+            "y": 3355.5955695228226
+          },
+          "nodeIndex": "sdi_facturacion_linea_factura_detalle",
+          "nodeLineageTag": "0be43118-5eaa-4421-88c8-7202609acac5",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 830.82881691769217,
+            "y": 1242.7499225116458
+          },
+          "nodeIndex": "sdi_facturacion_linea_movimiento",
+          "nodeLineageTag": "76a6bd74-da17-46bf-afd9-8f2ebdad5fef",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1576.942946747796,
+            "y": 952.52352722859268
+          },
+          "nodeIndex": "sdi_facturacion_linea_ventas",
+          "nodeLineageTag": "69434bd7-4d91-4ff0-b6c5-e2869b1bc9e6",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2149.4775634267648,
+            "y": 1912.4183352441617
+          },
+          "nodeIndex": "sdi_facturacion_macro_unidad",
+          "nodeLineageTag": "b9661c96-5d43-42a3-a195-69b1df21f7cf",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2079.7768300113321,
+            "y": 2776.9321772747485
+          },
+          "nodeIndex": "sdi_facturacion_macro_unidad_nueva",
+          "nodeLineageTag": "d870f125-d781-4e21-b252-ed1f7e20b372",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1246.2432253765382,
+            "y": 1316.1245520933871
+          },
+          "nodeIndex": "sdi_facturacion_movimiento",
+          "nodeLineageTag": "8d4c9f89-306b-4a05-aae2-6972f58a02b8",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2122.7644248169008,
+            "y": 1676.5271162187114
+          },
+          "nodeIndex": "sdi_facturacion_negocio",
+          "nodeLineageTag": "3537e468-79ad-4d2e-b95c-44d1b5ff6c70",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2608.5212404181125,
+            "y": 2775.2471521618536
+          },
+          "nodeIndex": "sdi_facturacion_negocio_nueva",
+          "nodeLineageTag": "aeea6ca8-e57d-4a5e-b499-2f17c45d585d",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1103.7865661872715,
+            "y": 1866.4437134855712
+          },
+          "nodeIndex": "sdi_facturacion_negocio_rel",
+          "nodeLineageTag": "96938bdb-ebf8-4dac-9ccd-5306994a8bdd",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 415.41440845884608,
+            "y": 1033.5517737371372
+          },
+          "nodeIndex": "sdi_facturacion_objetivo",
+          "nodeLineageTag": "a8dfdebe-1133-4bd3-8423-adbe25c15004",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1734.0631549679188,
+            "y": 1775.3711845498087
+          },
+          "nodeIndex": "sdi_facturacion_objetivo_nueva",
+          "nodeLineageTag": "a8007cb5-a465-4f22-af9d-c20656ddd292",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1992.3573552066418,
+            "y": 712.29723660012087
+          },
+          "nodeIndex": "sdi_facturacion_partner",
+          "nodeLineageTag": "69527c4e-7cd8-41dc-b073-9bec1c95d2e3",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 830.82881691769217,
+            "y": 1561.0993353215817
+          },
+          "nodeIndex": "sdi_facturacion_producto",
+          "nodeLineageTag": "271b7597-4a88-49c4-b815-e6fc2ff82ff3",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1484.4042685035981,
+            "y": 1785.3523441462846
+          },
+          "nodeIndex": "sdi_facturacion_producto_venta",
+          "nodeLineageTag": "d3a5be1e-a25b-4c2b-bb1a-861eea801810",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4892.9369818277983,
+            "y": 2369.8681303689764
+          },
+          "nodeIndex": "sdi_facturacion_productos_general",
+          "nodeLineageTag": "2c8368bb-2812-4b30-8653-bf73a61b9d89",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2657.9957362983369,
+            "y": 1153.1289267689783
+          },
+          "nodeIndex": "sdi_facturacion_proyectos",
+          "nodeLineageTag": "55a9c614-c465-4180-bd48-927183634661",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1166.8231522313351,
+            "y": 834.71014363454117
+          },
+          "nodeIndex": "sdi_facturacion_recurrente",
+          "nodeLineageTag": "88693183-02ee-4277-b8ad-02018df8a813",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1806.7484943005097,
+            "y": 2874.1811610639766
+          },
+          "nodeIndex": "sdi_facturacion_recurrente_diciembre",
+          "nodeLineageTag": "018e1759-ee5b-49d5-a5c9-f8a867f28b02",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1576.9429467477958,
+            "y": 481.41440845884586
+          },
+          "nodeIndex": "sdi_facturacion_rrhh_costes",
+          "nodeLineageTag": "e52d212f-300e-4b46-bd41-97293f875ef0",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2823.1861721243336,
+            "y": 478.77332569862222
+          },
+          "nodeIndex": "sdi_facturacion_stage",
+          "nodeLineageTag": "531f4354-d8f1-44c6-9f55-ea46d0ba695b",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 301.60875785259987,
+            "y": 552.1373652782911
+          },
+          "nodeIndex": "sdi_facturacion_team",
+          "nodeLineageTag": "0453c861-a417-48a0-a85a-2b414287bd5a",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 642.47346080899524,
+            "y": 2291.8475743281392
+          },
+          "nodeIndex": "sdi_facturacion_unidad_medida",
+          "nodeLineageTag": "0df86327-4e89-4da3-a63b-a0f0e76427de",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2528.9898600447523,
+            "y": 1959.6248656790149
+          },
+          "nodeIndex": "sdi_facturacion_ventas",
+          "nodeLineageTag": "a5bd8b4c-7d22-48a0-82d1-aff6e40e7952",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6548.7376295905706,
+            "y": 2443.8681303689764
+          },
+          "nodeIndex": "TablaPL_global",
+          "nodeLineageTag": "b0b2cda3-43f6-4ea9-9994-fab441ab3b75",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5306.887143768492,
+            "y": 2369.8681303689764
+          },
+          "nodeIndex": "TablaPLGlobal",
+          "nodeLineageTag": "c16ac3f1-33df-418b-98c8-0e6f0cf734f7",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6832.7376295905706,
+            "y": 1677.7977847614113
+          },
+          "nodeIndex": "TablaPLNegocios",
+          "nodeLineageTag": "f0ed89ce-c9b6-4593-8fcf-565d86044d11",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 7116.7376295905706,
+            "y": 1677.7977847614113
+          },
+          "nodeIndex": "sdi_facturacion_cuentas_analisis_nueva",
+          "nodeLineageTag": "ce08bd8a-f34a-4e36-9fa8-384564a10a82",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 8184.2533372927865,
+            "y": 86
+          },
+          "nodeIndex": "Meses_segmentador",
+          "nodeLineageTag": "54b87ea7-100f-4ac2-9b79-9b3cb70652ac",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 7400.7376295905706,
+            "y": 0
+          },
+          "nodeIndex": "sdi_facturacion_linea_contrato_churn",
+          "nodeLineageTag": "6dfbdda9-c978-4c35-83e2-5683781a2f43",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 7792.4954834416785,
+            "y": 14
+          },
+          "nodeIndex": "sdi_facturacion_usuarios",
+          "nodeLineageTag": "00190db4-20b6-49b4-b3d3-8e112cca9903",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 8860.0111911438944,
+            "y": 0
+          },
+          "nodeIndex": "linea_contratos_caidos",
+          "nodeLineageTag": "10c103cf-56bf-4178-9548-2158a8e3a2f3",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 9247.7296587128967,
+            "y": 84
+          },
+          "nodeIndex": "ResumenChurnMensual",
+          "nodeLineageTag": "1b8bc987-c206-47bb-bdf2-3ef7cec28a85",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 9914.437195895498,
+            "y": 72
+          },
+          "nodeIndex": "desvio",
+          "nodeLineageTag": "9a51868a-083b-4cc2-aaa9-48204d5b2a70",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10297.1447330781,
+            "y": 72
+          },
+          "nodeIndex": "pyg_pyme",
+          "nodeLineageTag": "f87fbc7a-3bd2-45d1-ae9e-c51ebe7f49b5",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 9531.7296587128967,
+            "y": 0
+          },
+          "nodeIndex": "sdi_facturacion_objetivo_pyg",
+          "nodeLineageTag": "d59760cb-5071-4254-a68a-d02d5f6a5884",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10581.1447330781,
+            "y": 0
+          },
+          "nodeIndex": "desvio_aprovisionamiento",
+          "nodeLineageTag": "c476edb8-7d45-445d-b12a-b63f507e4ad6",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10948.505146994674,
+            "y": 0
+          },
+          "nodeIndex": "desvio_cifra_negocio",
+          "nodeLineageTag": "e23f004c-13b3-4b51-915d-af6f852de686",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 11315.865560911248,
+            "y": 0
+          },
+          "nodeIndex": "desvio_gastos_personal",
+          "nodeLineageTag": "5dc34f38-92c6-459b-86d9-b0d9fca5b914",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 11683.225974827823,
+            "y": 0
+          },
+          "nodeIndex": "desvio_otros_gastos",
+          "nodeLineageTag": "fb199765-e097-4938-8aa6-167fecaf538c",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 12349.712627783696,
+            "y": 12
+          },
+          "nodeIndex": "business_unit",
+          "nodeLineageTag": "1afd4c91-d44e-431e-b36b-f7c0b54ea516",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 12732.199280739571,
+            "y": 24
+          },
+          "nodeIndex": "partner_auxiliar",
+          "nodeLineageTag": "45cd0071-4dfc-4d59-93ef-0135f1daa607",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 11967.225974827823,
+            "y": 0
+          },
+          "nodeIndex": "public_contract_terminate_reason",
+          "nodeLineageTag": "9b98b3ea-7ccf-4521-b882-817d3e5dc376",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 13114.685933695444,
+            "y": 72
+          },
+          "nodeIndex": "Tabla",
+          "nodeLineageTag": "197d01ef-663b-423e-96fa-3f718db2a263",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 13781.172586651317,
+            "y": 0
+          },
+          "nodeIndex": "Negocio_Mapping",
+          "nodeLineageTag": "8b54f5fa-73bb-4238-af8e-54b408260fa1",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 14065.172586651317,
+            "y": 0
+          },
+          "nodeIndex": "sale_order_negativo_product_swap",
+          "nodeLineageTag": "45e2d763-73a4-4cc2-aac3-cc6125b40267",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 14349.172586651317,
+            "y": 0
+          },
+          "nodeIndex": "Tabla_total_ventas",
+          "nodeLineageTag": "1b682b91-e684-48ac-91a0-fada8b02cd39",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 14633.172586651317,
+            "y": 0
+          },
+          "nodeIndex": "Tabla_columnas",
+          "nodeLineageTag": "39d6d8d4-c3bd-4f73-baf6-2955c258e31a",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 14995.207738074667,
+            "y": 0
+          },
+          "nodeIndex": "Tabla_ventas_onetime",
+          "nodeLineageTag": "f2129019-b9a4-4f16-9662-55722c4be791",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 15357.242889498015,
+            "y": 0
+          },
+          "nodeIndex": "Tabla_ventas_recurrentes",
+          "nodeLineageTag": "efa9e38e-5ee9-4919-9e82-fdfe9f2ba4ab",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 15641.242889498015,
+            "y": 0
+          },
+          "nodeIndex": "crm_lead_tag",
+          "nodeLineageTag": "dfd8860a-e10d-4e31-b761-4b9c944c496b",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 16027.1653981615,
+            "y": 111.68296613356654
+          },
+          "nodeIndex": "sale_order_tag_rel",
+          "nodeLineageTag": "ef828e9d-c5da-475f-951d-70be892c363b",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 16311.1653981615,
+            "y": 0
+          },
+          "nodeIndex": "segmentacion_ventas",
+          "nodeLineageTag": "e42ffc35-247d-4528-9afd-293c0b073f0b",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 16982.883865730506,
+            "y": 84
+          },
+          "nodeIndex": "Tabla_negocios",
+          "nodeLineageTag": "1e57d6f7-f5fb-4d66-95e8-3cceaae9b13c",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 16595.1653981615,
+            "y": 0
+          },
+          "nodeIndex": "gold_objetivos_nn_bi_ot",
+          "nodeLineageTag": "07bfbb06-63e1-4b94-930c-99b8a8348a35",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Todas las tablas",
+      "zoomValue": 50,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas las tablas",
+  "defaultDiagram": "Todas las tablas"
+}
