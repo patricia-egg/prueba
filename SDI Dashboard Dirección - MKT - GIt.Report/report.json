@@ -115,7 +115,7 @@
           "z": 26001.00
         },
         {
-          "config": "{\"name\":\"55cd435880aaf397b748\",\"layouts\":[{\"id\":0,\"position\":{\"x\":49.75704567541302,\"y\":100.75801749271136,\"z\":12000,\"width\":416.71525753158403,\"height\":39.80563654033042,\"tabOrder\":11000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"NEW NAME/BASE INSTALADA YTD\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontSize\":\"16pt\",\"color\":\"#d64550\"}}]}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"title\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}]}}}",
+          "config": "{\"name\":\"55cd435880aaf397b748\",\"layouts\":[{\"id\":0,\"position\":{\"x\":49.75704567541302,\"y\":100.75801749271136,\"z\":12000,\"width\":416.71525753158403,\"height\":39.80563654033042,\"tabOrder\":11000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"NEW NAME/BASE INSTALADA YTD_\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontSize\":\"16pt\",\"color\":\"#d64550\"}}]}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"title\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}]}}}",
           "filters": "[]",
           "height": 39.81,
           "width": 416.72,
